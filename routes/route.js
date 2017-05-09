@@ -2,7 +2,7 @@ exports.home=function(req,res){
   res.render('index',{
     sitename:'I Love My City',
     title:'I Love My City',
-    headline:'Arunkumar - module 2 assignment using ejs',
+    headline:'Baskaran - module 2 assignment using ejs',
   });
 }
 
